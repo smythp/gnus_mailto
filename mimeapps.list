@@ -1,0 +1,2 @@
+# add this line to minetypes.list in ~/.local/share/applications/
+x-scheme-handler/mailto=gnus.desktop

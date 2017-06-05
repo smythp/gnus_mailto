@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Gnus
+GenericName=Email Client
+Comment=Send emails
+MimeType=x-scheme-handler/mailto
+Exec=/home/patrick/scripts/sendmailto.sh %u
+TryExec=/home/patrick/scripts/sendmailto.sh
+Icon=/usr/share/icons/hicolor/scalable/apps/emacs24.svg
+Type=Application
+Terminal=false
+Categories=Utility
+StartupWMClass=Emacs24
